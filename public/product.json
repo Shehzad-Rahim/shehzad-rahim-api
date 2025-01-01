@@ -1,0 +1,58 @@
+{
+    "product" : [
+        {
+            "id" : 1,
+            "name" : "Paxton SV-11308-M",
+            "imagePath" : "/images/product1.webp",
+            "description" : "The best Paxton watch",
+            "price" : 7499,
+            "full_price" : 12999,
+            "discount" : "42% OFF"
+        },
+        {
+            "id" : 2,
+            "name" : "Lotus SV-11292-M",
+            "imagePath" : "/images/product2.webp",
+            "description" : "The best Lotus watch",
+            "price" : 7499,
+            "full_price" : 18000,
+            "discount" : "58% OFF"
+        },
+        {
+            "id" : 3,
+            "name" : "John vick SV-74752-F",
+            "imagePath" : "/images/product3.jpg",
+            "description" : "The best Paxton watch",
+            "price" : 13329,
+            "full_price" : 30000,
+            "discount" : "55% OFF"
+        },
+        {
+            "id" : 4,
+            "name" : "ForcePro SmartWatch",
+            "imagePath" : "/images/product4.webp",
+            "description" : "The best ForcePro smart watch",
+            "price" : 14999,
+            "full_price" : 29999,
+            "discount" : "50% OFF"
+        },
+        {
+            "id" : 5,
+            "name" : "Modicci",
+            "imagePath" : "/images/product5.webp",
+            "description" : "Timeless Edition | Stainless Steal",
+            "price" : 10749,
+            "full_price" : 20000,
+            "discount" : "46% OFF"
+        },
+        {
+            "id" : 6,
+            "name" : "Drift SV-9791-M",
+            "imagePath" : "/images/product6.webp",
+            "description" : "The Best Drift Watch",
+            "price" : 29999,
+            "full_price" : 29999,
+            "discount" : "50% OFF"
+        }
+    ]
+}
