@@ -1,5 +1,5 @@
 import { NextApiRequest, NextApiResponse } from 'next';
-let products = [
+const products = [
     {
         id: 1,
         name : "The Dandy Chair",
