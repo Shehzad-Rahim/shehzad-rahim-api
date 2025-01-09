@@ -1,6 +1,11 @@
 import { NextResponse } from "next/server";
-
-const products = [
+export interface productType {
+    name : string;
+     id: number;
+     price: number;
+     inStock: boolean;
+ }
+export const products : productType[] = [
     {
         id: 1,
         name: "The Dandy Chair",
@@ -24,6 +29,24 @@ const products = [
         name: "The Lucy Lamp",
         price: 250,
         inStock: true,
+    },
+    {
+        id: 5,
+        name: "The Dango Dash",
+        price: 350,
+        inStock: false,
+    },
+    {
+        id: 6,
+        name: "The Dango Dash",
+        price: 200,
+        inStock: false,
+    },
+    {
+        id: 7,
+        name: "The Dango Dash",
+        price: 350,
+        inStock: false,
     },
 ];
 
