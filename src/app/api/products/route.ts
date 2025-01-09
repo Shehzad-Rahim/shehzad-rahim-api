@@ -5,7 +5,7 @@ export interface productType {
      price: number;
      inStock: boolean;
  }
-export const products : productType[] = [
+ const products : productType[] = [
     {
         id: 1,
         name: "The Dandy Chair",
